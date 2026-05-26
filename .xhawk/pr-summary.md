@@ -1,0 +1,5 @@
+- Introduced a new ui/ subproject using Vite + React + TypeScript
+- Configured TailwindCSS and PostCSS with motion-friendly defaults
+- Implemented animated navigation, route transitions, parallax hero, and pages (Home, Features, About, Contact)
+- Added reusable animation variants and accessibility-conscious reduced-motion support
+- Included README-UI.md with setup instructions and notes on integrating with backends
